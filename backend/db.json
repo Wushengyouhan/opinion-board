@@ -2,14 +2,14 @@
   "opinions": [
     {
       "id": 1734867546457,
-      "votes": 2,
+      "votes": 3,
       "userName": "Chen Chen",
       "title": "美好的一天",
       "body": "今天很努力，是美好的一天"
     },
     {
       "id": 1734866647627,
-      "votes": 0,
+      "votes": 2,
       "userName": "Max",
       "title": "react is awsome!",
       "body": "React是最好的框架，没有之一！"
